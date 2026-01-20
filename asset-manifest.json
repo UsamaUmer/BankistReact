@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/UsamaUmer/BankistReact.git/static/css/main.334b44d2.css",
+    "main.js": "/UsamaUmer/BankistReact.git/static/js/main.bdb3d4ea.js",
+    "static/media/card.jpg": "/UsamaUmer/BankistReact.git/static/media/card.10658f8229d31da9ef62.jpg",
+    "static/media/hero.png": "/UsamaUmer/BankistReact.git/static/media/hero.155e8260fa5028b09e6f.png",
+    "static/media/digital.jpg": "/UsamaUmer/BankistReact.git/static/media/digital.b3f14c0247a86054d880.jpg",
+    "static/media/grow.jpg": "/UsamaUmer/BankistReact.git/static/media/grow.b9130134f816e3657e62.jpg",
+    "static/media/logo.png": "/UsamaUmer/BankistReact.git/static/media/logo.195824f1c2c0bd243653.png",
+    "index.html": "/UsamaUmer/BankistReact.git/index.html",
+    "main.334b44d2.css.map": "/UsamaUmer/BankistReact.git/static/css/main.334b44d2.css.map",
+    "main.bdb3d4ea.js.map": "/UsamaUmer/BankistReact.git/static/js/main.bdb3d4ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334b44d2.css",
+    "static/js/main.bdb3d4ea.js"
+  ]
+}
